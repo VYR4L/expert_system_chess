@@ -1,0 +1,13 @@
+chess==1.11.2
+cssselect2==0.8.0
+defusedxml==0.7.1
+experta==1.9.4
+frozendict==1.2
+pillow==11.1.0
+pycparser==2.22
+PyQt6==6.8.1
+PyQt6-Qt6==6.8.2
+PyQt6_sip==13.10.0
+schema==0.6.7
+tinycss2==1.4.0
+webencodings==0.5.1

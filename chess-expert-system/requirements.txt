@@ -1,3 +1,0 @@
-experta
-python-chess
-pgn-parser
